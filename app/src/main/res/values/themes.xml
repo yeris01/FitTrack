@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.FitTrack" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- Establece la imagen de bienvenida como fondo inicial del sistema -->
+        <item name="android:windowBackground">@drawable/splash_background</item>
+    </style>
+</resources>

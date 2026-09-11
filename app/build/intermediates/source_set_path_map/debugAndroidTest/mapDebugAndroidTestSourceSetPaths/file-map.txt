@@ -1,0 +1,4 @@
+com.fittrack.app.test.app-androidTest-0 C:\Users\erism\Downloads\FitTrack-AndroidStudio\FitTrack\app\build\generated\res\resValues\androidTest\debug
+com.fittrack.app.test.app-mergeDebugAndroidTestResources-1 C:\Users\erism\Downloads\FitTrack-AndroidStudio\FitTrack\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.fittrack.app.test.app-mergeDebugAndroidTestResources-2 C:\Users\erism\Downloads\FitTrack-AndroidStudio\FitTrack\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.fittrack.app.test.app-debugAndroidTest-3 C:\Users\erism\Downloads\FitTrack-AndroidStudio\FitTrack\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
